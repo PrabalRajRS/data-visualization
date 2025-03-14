@@ -46,7 +46,7 @@ export default function App() {
     return (
         <div className='main'>
             <h1 className='heading'>Order Visualizer</h1>
-            <div className='main-head'>
+            <div className='main-head' style={{padding: 20}}>
                 <div className='header'>
                     <div>
                         <h4>Filter by Order Status</h4>
