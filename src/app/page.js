@@ -1,6 +1,5 @@
 import styles from "./page.module.css";
 import App from "./app";
-import "./app.css";
 
 export default function Home() {
   return (
