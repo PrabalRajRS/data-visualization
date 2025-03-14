@@ -1,6 +1,6 @@
 "use client";
 import dynamic from 'next/dynamic';
-
+import "./app.css";
 const ItemPieChart = dynamic(() => import('@/components/ItemPieChart'), {
     ssr: false,
 });
