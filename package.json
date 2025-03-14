@@ -15,7 +15,6 @@
     "next": "15.2.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-json-view": "^1.21.3",
     "react18-json-view": "^0.2.9",
     "recharts": "^2.15.1"
   },
