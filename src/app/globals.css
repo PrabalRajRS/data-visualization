@@ -40,3 +40,45 @@ a {
     color-scheme: dark;
   }
 }
+.main{
+    padding: 20;
+    background-color: beige;
+}
+.heading{
+    margin: 20 0;
+    color: black;
+}
+.main-head{
+    background-color: #e58a1b;
+    color: white;
+    border-radius: 5px;
+    padding: 20;
+    display: flex;
+}
+.header{
+    width: 60%;
+}
+.select-box{
+    width: 90%;
+    height: 40;
+    border: 2px #a7a6a6 solid;
+    border-radius: 5;
+}
+.order-summary{
+    padding: 30;
+}
+.viz-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20;
+}
+h4{
+    padding: 10 0;
+}
+.chart-container{
+    padding: 20;
+}
+.chart-container p{
+    padding: 5;
+}
